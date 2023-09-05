@@ -1,6 +1,7 @@
 name: Code Merge Request Workflow
 
 on:
+  push:
   pull_request:
     types:
     - closed
