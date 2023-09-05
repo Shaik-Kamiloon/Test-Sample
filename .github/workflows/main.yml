@@ -50,4 +50,3 @@ jobs:
       run: |
         echo "Some test cases have failed. Kindly check your code for any errors."
         exit 1
-    
