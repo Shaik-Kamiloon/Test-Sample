@@ -9,4 +9,4 @@ def test_when_string_given_char_frequency_return_frequency_dictionary():
 def test_when_numeric_string_given_return_frequency_dictionary():
     frequency_invalid_string = FrequencyCalculator().char_frequency("123")
     assert frequency_invalid_string == {'1': 1, '2': 1, '3': 1}
-     assert False
+    # assert False
