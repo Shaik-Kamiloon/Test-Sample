@@ -2,6 +2,7 @@ name: Code Merge Request Workflow
 
 on:
   push:
+    branches: ["main"]
   pull_request:
     types:
     - closed
