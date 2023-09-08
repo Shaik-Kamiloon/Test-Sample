@@ -2,7 +2,7 @@
 
 class FrequencyCalculator:
     def __init__(self) -> None:
-        return
+    return
     
     def char_frequency(self, given_string) -> dict:
         frequency_dict = {}
