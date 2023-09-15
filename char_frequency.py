@@ -1,4 +1,4 @@
-''' This function is to count of each letter of the given string (the frequency of each character)'''
+''' This function is used to give the count of each letter in the given string (the frequency of each character)'''
 
 class FrequencyCalculator:
     def __init__(self) -> None:
